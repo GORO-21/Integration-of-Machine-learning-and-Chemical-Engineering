@@ -1,0 +1,13 @@
+# Logistic Regression 
+
+In this file, I will train a model using supervised learning. Supervised learning is a process of building a machine learning model that is based on labeled training data. 
+Logistic Regression Classifier: 
+Logistic regression is a statistical method used for binary classification, predicting the probability of an outcome belonging to one or more than one classes
+Our goal is to find a relationship between the dependent and independent variables by estimating probabilities using the logistic function.
+
+# How can it be used in chemical engineering?
+Applications:
+1) Predicting Corrosion Under Insulation (CUI) in Petrochemical Plants
+2) Foiling in Heat Exchangers
+3) Classifying Process Stability in Chemical Reactions
+4) Quality Control in Product Formulation
