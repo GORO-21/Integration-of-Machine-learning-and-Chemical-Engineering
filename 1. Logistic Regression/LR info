@@ -11,3 +11,10 @@ Applications:
 2) Foiling in Heat Exchangers
 3) Classifying Process Stability in Chemical Reactions
 4) Quality Control in Product Formulation
+
+Code: 
+The PNG of code, which is shared in this file, has temperature and pressure values that are plotted on a graph. 
+The model used to plot data on the graph uses logistic regression model.
+
+In the code snippet, you just have to enter the data, which is the temperature and pressure, then the model will plot it according to the class you have described. 
+
